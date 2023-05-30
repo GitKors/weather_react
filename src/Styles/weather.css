@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&display=swap');
+
+/* .container-cart {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+	align-content: stretch;
+} */
+
+.dates {
+    color: lightsalmon;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 200%;
+}
+
+.weather-cart {
+    margin-bottom: 50px;
+}
+
+.temperature {
+    color: aliceblue;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 250%;
+}
+
+.city_main {
+    font-size: 30px;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Bruno Ace', cursive;
+}
+
+.wind, .weather_main {
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Bruno Ace', cursive;
+}
+
+.temp_icon {
+    display: flex;
+    justify-content: center;
+    width: auto;
+}

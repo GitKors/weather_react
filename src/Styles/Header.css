@@ -1,0 +1,18 @@
+.title {
+    font-family: 'Bruno Ace', cursive;
+    font-size: 40px;
+    text-align: center;
+    color: #80000029;
+    background-color: #27a6ff;
+    border-top-left-radius: 15px;
+    box-shadow: 1px 20px 25px white;
+    border-top-right-radius: 15px;
+}
+
+.copyr {
+    font-size: 30px;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Bruno Ace', cursive;
+}
+

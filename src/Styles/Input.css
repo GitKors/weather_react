@@ -1,0 +1,21 @@
+.input {
+    background-color: rgb(53 169 243);
+    background-image: url(/public/search.svg);
+    background-position: 10px 8px;
+    background-repeat: no-repeat;
+    padding-left: 40px;
+    font-size: 22px;
+    font-weight: bold;
+    border-radius: 20px;
+    color: white;
+    border-color: cyan;
+}
+.input::placeholder{ 
+    color: rgb(251, 255, 255); 
+}
+
+
+
+
+
+
